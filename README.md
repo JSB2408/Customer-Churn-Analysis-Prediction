@@ -22,12 +22,7 @@ This project aims to:
 
 <img width="1413" height="793" alt="Churn_analysis" src="https://github.com/user-attachments/assets/7e29dbe9-03c6-45db-89d4-31bcdc668970" />
 
-
-
-
-
-
-
+<img width="1483" height="798" alt="Screenshot 2026-07-24 161815" src="https://github.com/user-attachments/assets/5b757e39-62a5-4603-a948-e150ffe5ec9b" />
 
 
 
