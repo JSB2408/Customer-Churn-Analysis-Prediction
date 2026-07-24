@@ -194,28 +194,6 @@ The Power BI dashboard provides interactive insights into customer behavior and 
 
 ---
 
-# 📂 Project Structure
-
-```text
-Customer-Churn-Analysis/
-│
-├── Churn_analysis.ipynb
-├── Churn_Analysis.pbix
-├── Predictions.csv
-├── README.md
-├── requirements.txt
-│
-├── Images/
-│     ├── Dashboard.png
-│     ├── Confusion_Matrix.png
-│     └── Feature_Importance.png
-│
-└── Data/
-      └── Dataset.xlsx
-```
-
----
-
 # 📊 Business Insights
 
 Some key insights discovered during the analysis:
@@ -255,34 +233,6 @@ Future enhancements may include:
 
 ---
 
-# ▶️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
-```
-
-Move into the project directory
-
-```bash
-cd customer-churn-analysis
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook
-
-```bash
-jupyter notebook
-```
-
----
-
 # 📦 Requirements
 
 ```
@@ -318,15 +268,6 @@ powerbi
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add screenshots of your Power BI dashboard here.
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
-
----
 
 # 📌 Repository Contents
 
