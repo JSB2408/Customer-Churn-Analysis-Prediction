@@ -20,7 +20,7 @@ This project aims to:
 
 # 📊 Dashboard Preview
 
-![Dashboard](Images/Churn_analysis.png)
+
 
 
 
