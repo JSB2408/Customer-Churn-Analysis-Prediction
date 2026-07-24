@@ -18,6 +18,20 @@ This project aims to:
 
 ---
 
+# 📊 Dashboard Preview
+
+![Customer Analysis](<img width="1413" height="793" alt="Screenshot 2026-07-24 161749" src="https://github.com/user-attachments/assets/69230ddf-e23e-4ab1-8ee3-e27b25f3baa0" />
+)
+
+
+
+
+
+
+
+
+
+
 # 🚀 Tech Stack
 
 | Technology | Purpose |
