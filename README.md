@@ -20,6 +20,8 @@ This project aims to:
 
 # 📊 Dashboard Preview
 
+<img width="1413" height="793" alt="Churn_analysis" src="https://github.com/user-attachments/assets/7e29dbe9-03c6-45db-89d4-31bcdc668970" />
+
 
 
 
